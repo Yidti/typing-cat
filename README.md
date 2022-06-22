@@ -12,9 +12,8 @@ python3.10 main.py
 
 ## Examples
 
-[//]: # (![sample-1]&#40;https://github.com/Yidti/watermarking-cat/blob/master/sample/sample-1.png&#41;)
+![sample-1](https://github.com/Yidti/typing-cat/blob/master/sample/sample-1.png)
 
-[//]: # (![sample-2]&#40;https://github.com/Yidti/watermarking-cat/blob/master/sample/sample-2.png&#41;)
 
 ## Introduction - [WPD](https://en.wikipedia.org/wiki/Words_per_minute)
 
@@ -27,3 +26,7 @@ python3.10 main.py
 1. test your typing speed.
 2. countdown timer (2 minutes).
 3. ignore mistakes for punctuation on head or tail of word.
+
+## Reference
+
+sample article from [cnn travel](https://edition.cnn.com/travel/destinations/taiwan)
